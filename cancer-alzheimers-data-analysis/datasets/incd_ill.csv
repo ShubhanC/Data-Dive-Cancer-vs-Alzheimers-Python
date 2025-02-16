@@ -1,0 +1,138 @@
+Incidence Rate Report for Illinois by County
+
+"All Cancer Sites (All Stages^), 2017-2021"
+
+"All Races (includes Hispanic), Both Sexes, All Ages"
+
+Sorted by Rate
+
+County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval","CI*Rank([rank note])","Lower CI (CI*Rank)","Upper CI (CI*Rank)",Average Annual Count,Recent Trend,"Recent 5-Year Trend ([trend note]) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Illinois(7)",17000,N/A,459.2 ,457.7, 460.8,N/A , N/A , N/A,70985,stable,-0.1 ,-0.6, 0.7
+"US (SEER+NPCR)(1)",00000,N/A,444.4 ,444.1, 444.7,N/A , N/A , N/A,1744459,falling,-0.5 ,-0.7, -0.3
+"Menard County(7)",17129,Urban,591 ,538.7, 647.4,1 , 1 , 38,102,rising,6.6 ,0.4, 11.5
+"Shelby County(7)",17173,Rural,567.9 ,529.1, 609,2 , 1 , 40,182,rising,1.1 ,0.2, 2.1
+"Marion County(7)",17121,Rural,565.2 ,535.4, 596.4,3 , 1 , 28,292,stable,0.1 ,-0.4, 0.6
+"Alexander County(7)",17003,Urban,564.2 ,490.4, 647.2,4 , 1 , 89,49,stable,0.3 ,-1.6, 2.0
+"Morgan County(7)",17137,Rural,560.2 ,529.3, 592.6,5 , 1 , 34,266,rising,0.9 ,0.3, 1.5
+"Pike County(7)",17149,Rural,557.7 ,511.9, 606.8,6 , 1 , 54,121,stable,1.0 ,-0.1, 2.1
+"DeKalb County(7)",17037,Urban,556.8 ,536, 578.2,7 , 1 , 27,565,rising,0.8 ,0.4, 1.2
+"Scott County(7)",17171,Rural,554.9 ,475.9, 644.4,8 , 1 , 97,38,stable,0.9 ,-0.5, 2.3
+"Clay County(7)",17025,Rural,554.3 ,506.1, 606.1,9 , 1 , 63,106,stable,0.6 ,-0.3, 1.5
+"Macon County(7)",17115,Urban,553.7 ,536, 571.9,10 , 1 , 25,810,stable,-0.1 ,-0.3, 0.2
+"Mason County(7)",17125,Rural,549.5 ,502.6, 600.1,11 , 1 , 62,112,stable,-0.3 ,-1.1, 0.5
+"Pulaski County(7)",17153,Rural,546.9 ,472.5, 631,12 , 1 , 97,43,rising,1.4 ,0.3, 2.6
+"Sangamon County(7)",17167,Urban,545.7 ,532.5, 559,13 , 4 , 26,1414,stable,0.3 ,-0.2, 0.7
+"Greene County(7)",17061,Rural,544.6 ,494.7, 598.7,14 , 1 , 73,95,stable,0.3 ,-0.5, 1.2
+"Macoupin County(7)",17117,Urban,544.4 ,518.3, 571.6,15 , 2 , 40,357,stable,0.4 ,-0.1, 0.8
+"Christian County(7)",17021,Rural,543.5 ,513.5, 575,16 , 1 , 45,261,stable,-0.1 ,-0.4, 0.3
+"Grundy County(7)",17063,Urban,541.8 ,515, 569.6,17 , 1 , 44,318,stable,0.0 ,-0.5, 0.6
+"Logan County(7)",17107,Rural,540.8 ,507.3, 576.1,18 , 1 , 52,205,stable,0.5 ,-0.2, 1.2
+"Vermilion County(7)",17183,Rural,536.1 ,515.5, 557.4,19 , 4 , 38,554,stable,0.2 ,-0.4, 0.9
+"Mercer County(7)",17131,Urban,532.6 ,488.5, 579.9,20 , 1 , 78,120,stable,0.4 ,-0.6, 1.5
+"Franklin County(7)",17055,Rural,531.2 ,503, 560.7,21 , 2 , 52,288,stable,0.2 ,-0.6, 0.9
+"Jasper County(7)",17079,Rural,524.7 ,467.7, 587.3,22 , 1 , 94,69,stable,0.3 ,-1.4, 2.0
+"Fulton County(7)",17057,Rural,524.6 ,495.3, 555.3,23 , 3 , 60,258,stable,0.1 ,-0.7, 0.9
+"Washington County(7)",17189,Rural,522.2 ,476.1, 572,24 , 1 , 87,104,stable,0.1 ,-1.1, 1.2
+"Adams County(7)",17001,Rural,517.6 ,495.8, 540.2,25 , 8 , 58,468,rising,2.0 ,0.3, 5.6
+"Jersey County(7)",17083,Urban,515.1 ,477.8, 554.7,26 , 3 , 79,155,stable,0.6 ,-0.3, 1.4
+"Jackson County(7)",17077,Rural,513.9 ,487.5, 541.3,27 , 8 , 69,309,rising,3.3 ,0.5, 8.1
+"Bureau County(7)",17011,Rural,513.1 ,483.6, 544,28 , 7 , 74,254,stable,0.0 ,-0.6, 0.7
+"Ford County(7)",17053,Urban,513 ,465.8, 564,29 , 1 , 91,95,stable,-0.1 ,-1.2, 1.0
+"Stark County(7)",17175,Urban,508.6 ,439.5, 586.7,30 , 1 , 101,43,stable,-0.4 ,-1.6, 0.7
+"Iroquois County(7)",17075,Rural,507.3 ,475.1, 541.4,31 , 6 , 82,206,stable,0.5 ,-0.3, 1.2
+"Tazewell County(7)",17179,Urban,504.4 ,489.3, 519.9,32 , 18 , 58,902,stable,-0.4 ,-0.8, 0.0
+"Perry County(7)",17145,Rural,503.5 ,466, 543.5,33 , 5 , 90,143,stable,0.4 ,-0.6, 1.3
+"Warren County(7)",17187,Rural,503.1 ,460.7, 548.6,34 , 3 , 90,115,stable,-0.3 ,-1.5, 0.9
+"Clinton County(7)",17027,Urban,502.1 ,473.5, 532.2,35 , 9 , 79,244,stable,0.4 ,-0.3, 1.1
+"Woodford County(7)",17203,Urban,501.6 ,473.1, 531.3,36 , 10 , 78,252,stable,0.0 ,-0.6, 0.6
+"Bond County(7)",17005,Urban,501.2 ,459, 546.6,37 , 3 , 94,111,stable,-0.5 ,-1.3, 0.3
+"Madison County(7)",17119,Urban,501.1 ,490.3, 512.2,38 , 24 , 56,1728,stable,0.0 ,-0.3, 0.3
+"Peoria County(7)",17143,Urban,500.8 ,487.6, 514.4,39 , 23 , 59,1150,falling,-0.4 ,-0.7, -0.1
+"Brown County(7)",17009,Rural,499.3 ,429, 578.4,40 , 1 , 102,37,stable,0.8 ,-1.0, 2.8
+"La Salle County(7)",17099,Rural,498.8 ,482.3, 515.7,41 , 21 , 66,752,falling,-0.8 ,-3.5, -0.2
+"Williamson County(7)",17199,Rural,497.8 ,476.8, 519.4,42 , 19 , 73,452,stable,0.1 ,-0.4, 0.6
+"Cumberland County(7)",17035,Rural,496.8 ,443.9, 554.7,43 , 2 , 100,71,stable,-0.3 ,-1.3, 0.7
+"Kankakee County(7)",17091,Urban,495.9 ,478.8, 513.5,44 , 22 , 69,671,stable,-0.5 ,-0.9, 0.0
+"Effingham County(7)",17049,Rural,494 ,464.4, 525.2,45 , 13 , 87,223,stable,-0.2 ,-0.8, 0.4
+"Jefferson County(7)",17081,Rural,491.3 ,463.6, 520.5,46 , 17 , 86,251,stable,0.0 ,-0.6, 0.5
+"Marshall County(7)",17123,Urban,489.6 ,441.3, 542.2,47 , 5 , 100,87,stable,0.0 ,-1.0, 0.9
+"Montgomery County(7)",17135,Rural,489.1 ,457.8, 522.1,48 , 15 , 90,199,stable,-0.3 ,-1.1, 0.5
+"Moultrie County(7)",17139,Rural,487.3 ,442.1, 536.1,49 , 6 , 101,92,stable,0.0 ,-1.4, 1.5
+"Douglas County(7)",17041,Rural,486.1 ,447.2, 527.6,50 , 10 , 98,124,stable,-0.3 ,-1.0, 0.4
+"Schuyler County(7)",17169,Rural,483 ,423.9, 549.3,51 , 2 , 102,53,rising,1.3 ,0.1, 2.7
+"Carroll County(7)",17015,Rural,481 ,440, 525.2,52 , 10 , 100,117,stable,-0.4 ,-1.6, 0.8
+"St. Clair County(7)",17163,Urban,480.8 ,469.7, 492.1,53 , 38 , 75,1524,falling,-0.5 ,-0.9, -0.2
+"Ogle County(7)",17141,Rural,480.6 ,457.3, 504.8,54 , 24 , 88,343,rising,1.2 ,0.1, 3.9
+"Kendall County(7)",17093,Urban,479.4 ,461.5, 497.9,55 , 31 , 84,574,stable,-0.2 ,-0.6, 0.2
+"McHenry County(7)",17111,Urban,479.4 ,469.2, 489.8,56 , 41 , 76,1792,rising,1.6 ,0.9, 2.7
+"Randolph County(7)",17157,Rural,479.1 ,449.4, 510.4,57 , 21 , 95,210,stable,0.3 ,-0.5, 1.1
+"Fayette County(7)",17051,Rural,478.8 ,442.9, 517.1,58 , 15 , 98,138,stable,-0.1 ,-1.0, 0.8
+"Calhoun County(7)",17013,Urban,478.5 ,409.5, 558.2,59 , 1 , 102,37,stable,-0.2 ,-1.7, 1.4
+"Livingston County(7)",17105,Rural,478.4 ,450.5, 507.7,60 , 24 , 94,238,falling,-5.3 ,-9.9, -0.4
+"Piatt County(7)",17147,Urban,478.1 ,437.5, 521.7,61 , 10 , 100,112,stable,0.0 ,-0.8, 0.7
+"Hardin County(7)",17069,Rural,477.2 ,396.5, 572.2,62 , 1 , 102,30,stable,-0.5 ,-1.9, 0.7
+"Lee County(7)",17103,Rural,472.6 ,444.6, 502.1,63 , 26 , 97,232,stable,-0.5 ,-0.9, 0.0
+"Henry County(7)",17073,Urban,472 ,448.6, 496.3,64 , 29 , 96,335,stable,-0.3 ,-0.8, 0.1
+"Saline County(7)",17165,Rural,471.5 ,438.3, 506.8,65 , 18 , 99,162,stable,-0.3 ,-1.0, 0.5
+"Knox County(7)",17095,Rural,471.5 ,448.1, 495.9,66 , 30 , 92,341,stable,-0.2 ,-0.6, 0.2
+"Will County(7)",17197,Urban,470.5 ,463.4, 477.6,67 , 52 , 78,3588,falling,-0.4 ,-0.7, -0.2
+"Johnson County(7)",17087,Rural,469.3 ,425.5, 516.8,68 , 15 , 101,88,stable,-0.8 ,-1.6, 0.0
+"Putnam County(7)",17155,Rural,467.9 ,402.4, 542.6,69 , 2 , 102,41,stable,-1.1 ,-2.3, 0.2
+"De Witt County(7)",17039,Rural,466.2 ,425.5, 510.1,70 , 16 , 101,104,falling,-3.4 ,-11.9, -0.2
+"Lawrence County(7)",17101,Rural,465.8 ,424, 511,71 , 17 , 102,95,stable,-0.4 ,-1.4, 0.6
+"Hancock County(7)",17067,Rural,464.1 ,426.1, 504.9,72 , 19 , 101,127,stable,-0.2 ,-1.1, 0.7
+"Wabash County(7)",17185,Rural,462 ,414.7, 513.8,73 , 13 , 102,78,stable,-0.5 ,-1.7, 0.7
+"Cass County(7)",17017,Rural,461.3 ,415.8, 510.8,74 , 16 , 102,79,stable,0.1 ,-1.1, 1.2
+"Union County(7)",17181,Rural,460.5 ,422.8, 501,75 , 22 , 101,123,stable,-2.3 ,-12.3, 0.1
+"Whiteside County(7)",17195,Rural,460.1 ,438.7, 482.4,76 , 43 , 98,380,stable,-0.3 ,-1.0, 0.3
+"Lake County(7)",17097,Urban,458.8 ,452.1, 465.6,77 , 62 , 87,3772,stable,2.3 ,-0.1, 3.5
+"Coles County(7)",17029,Rural,458.8 ,433.7, 484.9,78 , 40 , 99,272,falling,-0.8 ,-1.5, -0.1
+"Champaign County(7)",17019,Urban,458.1 ,444.7, 471.8,79 , 55 , 93,939,rising,0.9 ,0.3, 1.9
+"Monroe County(7)",17133,Urban,457.6 ,429.5, 487.3,80 , 34 , 100,213,stable,-0.3 ,-1.1, 0.5
+"Winnebago County(7)",17201,Urban,457.1 ,447, 467.4,81 , 61 , 92,1672,stable,-0.3 ,-0.7, 0.0
+"Massac County(7)",17127,Urban,456.8 ,414.8, 502.4,82 , 20 , 102,95,stable,-0.2 ,-1.3, 0.9
+"Richland County(7)",17159,Rural,454.3 ,414.5, 497.1,83 , 22 , 102,105,stable,-0.2 ,-1.4, 1.1
+"Gallatin County(7)",17059,Rural,453.4 ,385, 531.9,84 , 2 , 102,35,falling,-1.5 ,-2.5, -0.5
+"McDonough County(7)",17109,Rural,453.3 ,420.5, 488.1,85 , 31 , 101,157,falling,-6.0 ,-11.4, -0.4
+"Crawford County(7)",17033,Rural,449.5 ,412.9, 488.7,86 , 30 , 102,119,falling,-3.0 ,-14.5, -0.8
+"DuPage County(7)",17043,Urban,447.9 ,442.2, 453.6,87 , 73 , 93,5105,falling,-0.5 ,-0.7, -0.2
+"Edgar County(7)",17045,Rural,446.1 ,407.5, 487.6,88 , 31 , 102,113,stable,-0.8 ,-1.6, 0.0
+"Kane County(7)",17089,Urban,445.9 ,438.1, 453.8,89 , 71 , 95,2585,falling,-0.5 ,-0.8, -0.2
+"Boone County(7)",17007,Urban,442.1 ,419.1, 466.1,90 , 56 , 101,289,stable,-0.3 ,-0.8, 0.3
+"Clark County(7)",17023,Rural,440.9 ,399.9, 485.2,91 , 28 , 102,93,stable,-0.6 ,-1.6, 0.4
+"Rock Island County(7)",17161,Urban,437.2 ,423.7, 451,92 , 72 , 100,862,falling,-5.6 ,-9.2, -1.2
+"Edwards County(7)",17047,Rural,436.6 ,375, 506.4,93 , 10 , 102,40,stable,-0.7 ,-2.4, 0.8
+"Stephenson County(7)",17177,Rural,433.7 ,410.5, 458.1,94 , 63 , 102,298,stable,-0.1 ,-0.6, 0.3
+"Cook County(7)",17031,Urban,432.1 ,429.7, 434.5,95 , 86 , 100,26155,stable,-0.5 ,-0.8, 0.1
+"McLean County(7)",17113,Urban,431.8 ,418, 446,96 , 77 , 101,776,falling,-1.1 ,-1.8, -0.8
+"Jo Daviess County(7)",17085,Rural,429.8 ,397, 464.9,97 , 50 , 102,164,stable,-0.5 ,-1.6, 0.5
+"Wayne County(7)",17191,Rural,424.7 ,387.8, 464.7,98 , 50 , 102,106,stable,-0.5 ,-1.7, 0.6
+"Pope County(7)",17151,Rural,422.3 ,350, 509.3,99 , 7 , 102,31,stable,2.3 ,-0.6, 5.4
+"Henderson County(7)",17071,Rural,421.7 ,365.6, 485.4,100 , 22 , 102,48,stable,-0.1 ,-1.4, 1.2
+"White County(7)",17193,Rural,421.6 ,381.4, 465.4,101 , 41 , 102,91,falling,-13.3 ,-23.4, -4.2
+"Hamilton County(7)",17065,Rural,385.7 ,335.1, 442.5,102 , 55 , 102,46,stable,0.0 ,-1.7, 1.6
+
+Created by statecancerprofiles.cancer.gov on 10/06/2024 5:47 pm.
+
+State Cancer Registries may provide more current or more local data.
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"[rate note] Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
+"[trend note] Incidence data come from different sources. The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint. Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ [ https://statecancerprofiles.cancer.gov/historicaltrend/differences.html ] for selected counties."
+
+Rates and trends are computed using different standards for malignancy. For more information see malignant.html.
+
+"^ All Stages refers to any stage in the Surveillance, Epidemiology, and End Results (SEER) Summary/Historic Combined Summary Stage (2004+) [ https://seer.cancer.gov/tools/ssm/ ]."
+"[rank note]Results presented with the CI*Rank statistics help show the usefulness of ranks. For example, ranks for relatively rare diseases or less populated areas may be essentially meaningless because of their large variability, but ranks for more common diseases in densely populated regions can be very useful. More information about methodology can be found on the CI*Rank website."
+[rural urban note] Rural-Urban Continuum Codes provided by the USDA [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes ].
+"1 Source: National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] and Surveillance, Epidemiology, and End Results [ http://seer.cancer.gov ] SEER*Stat Database - United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2023 submission."
+7 Source: SEER November 2023 submission.
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2023 data."
+
+Data for the United States does not include data from Indiana.
+Data for the United States does not include Puerto Rico.

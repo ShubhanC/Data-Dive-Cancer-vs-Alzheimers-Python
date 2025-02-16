@@ -1,0 +1,67 @@
+formatting errors:
+alexandria city
+Alleghany County and Clifton Forge City, VA
+Anchorage Borough/Municipality
+baltimore city
+Bedford City and County
+bristol city
+buena vista city
+charlottesville city
+chesapeake city
+colonial heights city
+covington city
+danville city
+de baca county (or debaca county)
+denali (or denali borough)
+dona ana county (or doña ana)
+emporia city
+fairbanks north star (or fairbanks north star borough)
+fairfax city
+falls church city
+fredericksburg city
+galax city
+halifax county
+hampton city
+harrisonburg city
+hopewell city
+juneau borough
+lasalle parish
+lasalle county
+lafourche parish
+lynchburg city
+manassas park city
+martinsville city
+newport news city
+norfolk city
+norton city
+oglala lakota (or oglala lakota county)
+petersburg borough
+petersburg city
+poquoson city
+portsmouth city
+prince george’s county
+queen anne’s county
+radford city
+richmond city
+roanoke city
+salem city
+sitka borough
+st. louis city
+st. mary’s county
+staunton city
+suffolk city
+virginia beach city
+waynesboro city
+williamsburg city
+winchester city
+wrangell borough
+
+Missing Data from Cancer:
+Chugach Census Area
+Copper River Census Area
+Note: Both of these combine to make the valdez-cordova census area
+
+Missing Data from Alzheimers:
+Puerto Rico
+DC
+valdez-cordova census area (its chugach and copper river combined basically)

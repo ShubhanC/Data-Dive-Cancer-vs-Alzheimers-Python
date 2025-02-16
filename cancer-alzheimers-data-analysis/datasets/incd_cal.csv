@@ -1,0 +1,95 @@
+Incidence Rate Report for California by County
+
+"All Cancer Sites (All Stages^), 2017-2021"
+
+"All Races (includes Hispanic), Both Sexes, All Ages"
+
+Sorted by Rate
+
+County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval","CI*Rank([rank note])","Lower CI (CI*Rank)","Upper CI (CI*Rank)",Average Annual Count,Recent Trend,"Recent 5-Year Trend ([trend note]) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"California(7)",06000,N/A,397.4 ,396.6, 398.2,N/A , N/A , N/A,176508,stable,-0.5 ,-0.9, 0.2
+"US (SEER+NPCR)(1)",00000,N/A,444.4 ,444.1, 444.7,N/A , N/A , N/A,1744459,falling,-0.5 ,-0.7, -0.3
+"Glenn County(7)",06021,Rural,487.2 ,453.9, 522.5,1 , 1 , 12,167,stable,-0.1 ,-0.9, 0.6
+"Butte County(7)",06007,Urban,483.2 ,471, 495.5,2 , 1 , 4,1320,stable,-0.3 ,-0.7, 0.0
+"Santa Cruz County(7)",06087,Urban,463.9 ,453.2, 474.8,3 , 1 , 8,1550,rising,3.0 ,1.4, 5.7
+"Shasta County(7)",06089,Urban,461.4 ,449.2, 473.8,4 , 2 , 10,1206,falling,-0.5 ,-0.8, -0.1
+"San Luis Obispo County(7)",06079,Urban,455.6 ,445.7, 465.7,5 , 2 , 10,1792,stable,1.2 ,-0.1, 2.8
+"Santa Barbara County(7)",06083,Urban,452.3 ,443.8, 460.9,6 , 3 , 11,2292,stable,2.5 ,-0.2, 4.6
+"Tehama County(7)",06103,Rural,448.6 ,428.5, 469.5,7 , 1 , 21,405,falling,-0.7 ,-1.2, -0.2
+"Yuba County(7)",06115,Urban,447.3 ,426.3, 469.1,8 , 2 , 23,362,stable,-0.5 ,-1.2, 0.2
+"Marin County(7)",06041,Urban,443.4 ,433.8, 453.3,9 , 4 , 15,1785,falling,-0.6 ,-0.9, -0.3
+"Humboldt County(7)",06023,Rural,440.5 ,426, 455.3,10 , 3 , 21,769,falling,-0.9 ,-1.4, -0.4
+"Placer County(7)",06061,Urban,436.1 ,428.1, 444.2,11 , 6 , 18,2411,falling,-0.6 ,-0.9, -0.3
+"Sonoma County(7)",06097,Urban,435.6 ,428.3, 442.9,12 , 7 , 18,2994,stable,1.5 ,-0.3, 2.6
+"Ventura County(7)",06111,Urban,434.4 ,428.6, 440.3,13 , 8 , 17,4423,stable,1.6 ,-0.1, 2.6
+"Amador County(7)",06005,Rural,427.1 ,404.3, 451.1,14 , 4 , 37,305,falling,-0.8 ,-1.3, -0.3
+"San Diego County(7)",06073,Urban,426.1 ,423.1, 429.2,15 , 12 , 21,15558,falling,-0.7 ,-0.9, -0.4
+"El Dorado County(7)",06017,Urban,423.8 ,412.5, 435.4,16 , 9 , 27,1208,falling,-0.8 ,-1.2, -0.4
+"Stanislaus County(7)",06099,Urban,423.6 ,415.9, 431.4,17 , 11 , 24,2412,stable,-0.2 ,-0.5, 0.0
+"Tuolumne County(7)",06109,Rural,421.2 ,401.4, 441.8,18 , 6 , 38,403,stable,4.4 ,-3.1, 9.7
+"Lake County(7)",06033,Rural,419.7 ,400.9, 439.2,19 , 7 , 37,436,falling,-1.2 ,-1.7, -0.6
+"Solano County(7)",06095,Urban,417.6 ,409.7, 425.6,20 , 14 , 29,2281,stable,-0.1 ,-1.1, 1.6
+"Napa County(7)",06055,Urban,416.2 ,403, 429.8,21 , 11 , 35,801,stable,2.6 ,-0.6, 4.6
+"Calaveras County(7)",06009,Rural,416 ,393.9, 439.3,22 , 7 , 41,335,stable,-0.4 ,-1.0, 0.1
+"Sutter County(7)",06101,Urban,415.3 ,398.5, 432.6,23 , 9 , 37,479,stable,0.0 ,-1.3, 2.7
+"Yolo County(7)",06113,Urban,413.8 ,401.4, 426.5,24 , 12 , 36,877,stable,-0.6 ,-1.1, 0.0
+"Contra Costa County(7)",06013,Urban,409.6 ,404.8, 414.5,25 , 19 , 31,5781,stable,-0.6 ,-1.4, 0.4
+"Orange County(7)",06059,Urban,407.8 ,404.8, 410.8,26 , 21 , 31,15089,falling,-0.7 ,-0.9, -0.5
+"Sacramento County(7)",06067,Urban,406.9 ,402.5, 411.2,27 , 21 , 33,7111,falling,-1.4 ,-1.7, -1.1
+"Mendocino County(7)",06045,Rural,404.7 ,388.7, 421.3,28 , 14 , 41,550,falling,-1.5 ,-6.4, -0.7
+"Mariposa County(7)",06043,Rural,402.9 ,368.2, 440.5,29 , 5 , 51,127,stable,4.3 ,-1.3, 7.8
+"Kern County(7)",06029,Urban,402.5 ,396.3, 408.8,30 , 22 , 37,3355,falling,-0.7 ,-1.0, -0.4
+"Nevada County(7)",06057,Rural,400.9 ,386.3, 416,31 , 18 , 42,708,falling,-1.3 ,-1.9, -0.8
+"San Mateo County(7)",06081,Urban,398.8 ,393, 404.7,32 , 25 , 39,3757,falling,-1.3 ,-3.1, -0.8
+"San Bernardino County(7)",06071,Urban,398.6 ,394.7, 402.5,33 , 27 , 38,8463,falling,-0.7 ,-0.9, -0.5
+"Riverside County(7)",06065,Urban,397.8 ,394.3, 401.2,34 , 28 , 38,10659,falling,-1.9 ,-3.3, -0.7
+"San Benito County(7)",06069,Urban,396.9 ,375.1, 419.5,35 , 14 , 47,260,stable,-0.4 ,-1.1, 0.3
+"San Joaquin County(7)",06077,Urban,396.2 ,389.9, 402.6,36 , 27 , 39,3138,falling,-2.8 ,-4.4, -0.9
+"Madera County(7)",06039,Urban,393.9 ,380.2, 407.9,37 , 21 , 43,652,stable,-0.4 ,-0.9, 0.0
+"Fresno County(7)",06019,Urban,390.1 ,384.4, 395.7,38 , 31 , 42,3806,falling,-0.6 ,-0.8, -0.4
+"San Francisco County(7)",06075,Urban,384.5 ,379.1, 390,39 , 35 , 44,4035,stable,1.0 ,-0.5, 2.0
+"Santa Clara County(7)",06085,Urban,384 ,380.2, 387.8,40 , 36 , 43,8159,stable,0.1 ,-0.6, 1.3
+"Merced County(7)",06047,Urban,378.9 ,368.1, 389.8,41 , 35 , 49,978,falling,-0.9 ,-1.2, -0.6
+"Monterey County(7)",06053,Urban,373.8 ,365.9, 381.9,42 , 38 , 49,1742,falling,-1.5 ,-3.2, -1.0
+"Colusa County(7)",06011,Rural,373.6 ,339.2, 410.5,43 , 16 , 54,91,stable,0.2 ,-1.3, 1.8
+"Alameda County(7)",06001,Urban,371.6 ,367.7, 375.6,44 , 40 , 49,6999,falling,-1.2 ,-2.3, -0.9
+"Los Angeles County(7)",06037,Urban,369.1 ,367.5, 370.8,45 , 42 , 49,40827,falling,-0.7 ,-1.0, -0.1
+"Kings County(7)",06031,Urban,364.6 ,350.1, 379.6,46 , 38 , 53,489,falling,-0.9 ,-1.3, -0.5
+"Imperial County(7)",06025,Urban,363.7 ,351.2, 376.6,47 , 40 , 52,658,falling,-2.8 ,-8.8, -0.5
+"Tulare County(7)",06107,Urban,361.7 ,353.6, 370,48 , 42 , 52,1564,falling,-1.0 ,-1.3, -0.7
+"Plumas County(7)",06063,Rural,360.1 ,328.3, 394.5,49 , 23 , 55,126,falling,-1.1 ,-1.9, -0.4
+"Siskiyou County(7)",06093,Rural,357.4 ,336.4, 379.5,50 , 37 , 54,261,falling,-2.2 ,-6.4, -1.5
+"Inyo County(7)",06027,Rural,345.4 ,313.9, 379.5,51 , 34 , 56,103,stable,-1.0 ,-2.0, 0.0
+"Del Norte County(7)",06015,Rural,342.4 ,315.2, 371.4,52 , 38 , 56,127,falling,-1.7 ,-2.6, -0.8
+"Lassen County(7)",06035,Rural,331.2 ,304.8, 359.4,53 , 43 , 57,122,stable,-0.1 ,-1.1, 1.1
+"Trinity County(7)",06105,Rural,300.4 ,268.4, 335.7,54 , 50 , 58,84,falling,-4.3 ,-11.8, -2.8
+"Mono County(7)",06051,Rural,291.4 ,254.7, 332.4,55 , 50 , 58,51,stable,-0.6 ,-2.3, 1.4
+"Modoc County(7)",06049,Rural,290.7 ,248.3, 339.2,56 , 46 , 58,43,falling,-1.6 ,-3.3, -0.1
+"Alpine County(7)",06003,Rural,268.5 ,160.5, 429.2,57 , 2 , 58,5,*,*,*,*
+"Sierra County(7)",06091,Rural,259.6 ,201.4, 334.2,58 , 48 , 58,17,falling,-3.8 ,-9.5, -2.0
+
+Created by statecancerprofiles.cancer.gov on 10/10/2024 8:28 pm.
+
+State Cancer Registries may provide more current or more local data.
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"[rate note] Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
+"[trend note] Incidence data come from different sources. The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint. Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ [ https://statecancerprofiles.cancer.gov/historicaltrend/differences.html ] for selected counties."
+
+Rates and trends are computed using different standards for malignancy. For more information see malignant.html.
+
+"^ All Stages refers to any stage in the Surveillance, Epidemiology, and End Results (SEER) Summary/Historic Combined Summary Stage (2004+) [ https://seer.cancer.gov/tools/ssm/ ]."
+"[rank note]Results presented with the CI*Rank statistics help show the usefulness of ranks. For example, ranks for relatively rare diseases or less populated areas may be essentially meaningless because of their large variability, but ranks for more common diseases in densely populated regions can be very useful. More information about methodology can be found on the CI*Rank website."
+[rural urban note] Rural-Urban Continuum Codes provided by the USDA [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes ].
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3)."
+"1 Source: National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] and Surveillance, Epidemiology, and End Results [ http://seer.cancer.gov ] SEER*Stat Database - United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2023 submission."
+7 Source: SEER November 2023 submission.
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2023 data."
+
+Data for the United States does not include data from Indiana.
+Data for the United States does not include Puerto Rico.

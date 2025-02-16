@@ -1,0 +1,17 @@
+Before working in VSCode, make a new branch to work in
+- In the VSCode terminal, type --> git branch ...(name)
+- To see if we are in the branch, type --> git branch
+    - This also shows all the branches that you have made
+- To switch branch type --> git switch ...(name)
+
+When you are in the branch that you have made, code what you want.
+
+Once you are done with your work and want to push it back to the main branch you must merge to the main branch
+- To merge the files type --> git merge -m "...(message)" ...(branch name)
+- Then push the merge --> git push
+
+To create an exact copy of you own branch type the following:
+      git checkout -b new_branch old_branch
+
+After you are done with the work in your branch and merged it to the main branch, delete the branch you made by typing:
+      git branch -d ...(Branch Name)
